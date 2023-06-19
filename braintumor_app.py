@@ -31,7 +31,7 @@ def main():
         """
         <style>
         .stApp {
-            background: url('https://st2.depositphotos.com/1518767/6951/v/600/depositphotos_69511347-stock-video-brain-spinning-on-black-background.jpg');
+            background: url('https://cutewallpaper.org/27/brain-blue-wallpaper/44128770.jpg');
             background-size: cover;
         }
         .stApp > div:first-child {

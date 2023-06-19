@@ -31,7 +31,7 @@ def main():
         """
         <style>
         .stApp {
-            background: url('https://cutewallpaper.org/27/brain-blue-wallpaper/44128770.jpg');
+            background: url('https://i.postimg.cc/QNPYnn1D/braintwo.jpg');
             background-size: cover;
         }
         .stApp > div:first-child {
